@@ -1,4 +1,4 @@
-# UI-Designs
+# UI-Designs using Figma
 
 # SignUp Design Page
 ![Screenshot 2023-11-19 161141](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/88f7bb7b-a653-4305-a5ec-9650e655a419)
