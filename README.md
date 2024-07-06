@@ -1,3 +1,14 @@
+# Mobile SignUp Flow
+
+![Screenshot 2024-07-06 171437](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/0ea1569d-170d-43d7-9f27-884b13290475)
+![Screenshot 2024-07-06 171357](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/9990b24e-5ef3-4502-8bb6-9a758de8706b)
+![Screenshot 2024-07-06 171317](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/e912d509-9e5a-4145-9382-bb18573f3dbf)
+![Screenshot 2024-07-06 171145](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/0854d039-1a57-4e34-901c-7b35cb9cdc10)
+
+
+
+
+
 # UI-Designs using Figma
 
 # SignUp Design Page
