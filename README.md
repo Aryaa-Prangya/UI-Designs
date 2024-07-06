@@ -1,4 +1,8 @@
 # Mobile SignUp Flow
+# Description
+A mobile app signup flow is the process of users creating an account and signing up for an
+app. The goal of a good signup flow is to make it easy and quick for users to sign up, while
+also collecting the necessary information from them
 
 ![Screenshot 2024-07-06 171145](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/0854d039-1a57-4e34-901c-7b35cb9cdc10)
 
