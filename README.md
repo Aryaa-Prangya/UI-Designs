@@ -14,6 +14,15 @@ also collecting the necessary information from them
 
 
 
+E-commerce Website
+
+![Screenshot 2024-07-07 215051](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/79ead7e7-5f07-42b2-a087-8db62df6fdcf)
+
+![Screenshot 2024-07-07 214954](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/5c256cdc-491f-4032-8fe4-5317a67e2ff9)
+
+![Screenshot 2024-07-07 214941](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/18d8e878-beb2-4e5a-a017-d935876cbbfc)
+
+
 
 
 
