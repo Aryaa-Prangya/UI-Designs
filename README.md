@@ -28,6 +28,9 @@ https://www.figma.com/design/wfW0eLeh77e6phsuSqlSc1/e-commerce-website?node-id=0
 ![Screenshot 2024-07-07 215051](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/79ead7e7-5f07-42b2-a087-8db62df6fdcf)
 
 
+# Restaurant Menu Task
+
+![image](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/bd6e14a3-0f9a-4f4f-805c-0f085b7ab2e8)
 
 
 
