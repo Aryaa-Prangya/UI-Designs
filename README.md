@@ -35,7 +35,8 @@ link : https://www.figma.com/design/wfW0eLeh77e6phsuSqlSc1/e-commerce-website?no
 
 link: https://www.figma.com/design/hjs6xzWuCw6gPeVQjsBjpY/Restaurant-Menu-Task?node-id=0-1&t=pigbjWEfVPyqIw9R-1
 
-![image](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/bd6e14a3-0f9a-4f4f-805c-0f085b7ab2e8)
+![image](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/f043f0cc-8db4-4989-adf0-79c999d1e765)
+
 
 
 
