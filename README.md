@@ -20,6 +20,13 @@ link : https://www.figma.com/design/nAXipP49bzVyG1vi0UOxnI/Mobile-SignUp-SignIn-
 
 ![Screenshot 2024-07-06 171437](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/0ea1569d-170d-43d7-9f27-884b13290475)
 
+# AICTE Intership FrontPage Redesign
+https://www.figma.com/design/aIOTRnioxfTIa1kfuYRohF/AICTE-REDESIGN-WEBSITE?node-id=0-1&t=7qtRrnsl9HUxH5AE-1
+# The Real time Website
+https://internship.aicte-india.org/
+
+# Redesigned Website
+![image](https://github.com/user-attachments/assets/7ab67a30-0dbf-4ede-a868-50ae8e2dad7c)
 
 
 # E-commerce Website
