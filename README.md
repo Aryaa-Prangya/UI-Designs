@@ -4,21 +4,6 @@
 https://aryaprangya.notion.site/Music-Playlist-App-b91f0def68bf4c19b8ed69d752e77d52?pvs=4
 
 
-# Mobile SignUp Flow
-# Description
-A mobile app signup flow is the process of users creating an account and signing up for an
-app. The goal of a good signup flow is to make it easy and quick for users to sign up, while
-also collecting the necessary information from them
-
-link : https://www.figma.com/design/nAXipP49bzVyG1vi0UOxnI/Mobile-SignUp-SignIn-page?node-id=0-1&t=hfuTR0eNDPJjDPpH-1
-
-![Screenshot 2024-07-06 171145](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/0854d039-1a57-4e34-901c-7b35cb9cdc10)
-
-![Screenshot 2024-07-06 171317](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/e912d509-9e5a-4145-9382-bb18573f3dbf)
-
-![Screenshot 2024-07-06 171357](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/9990b24e-5ef3-4502-8bb6-9a758de8706b)
-
-![Screenshot 2024-07-06 171437](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/0ea1569d-170d-43d7-9f27-884b13290475)
 
 # AICTE Intership FrontPage Redesign
 https://www.figma.com/design/aIOTRnioxfTIa1kfuYRohF/AICTE-REDESIGN-WEBSITE?node-id=0-1&t=7qtRrnsl9HUxH5AE-1
