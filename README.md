@@ -26,11 +26,7 @@ link : https://www.figma.com/design/wfW0eLeh77e6phsuSqlSc1/e-commerce-website?no
 ![Screenshot 2024-07-07 215051](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/79ead7e7-5f07-42b2-a087-8db62df6fdcf)
 
 
-# Restaurant Menu Task
 
-link: https://www.figma.com/design/hjs6xzWuCw6gPeVQjsBjpY/Restaurant-Menu-Task?node-id=0-1&t=pigbjWEfVPyqIw9R-1
-
-![image](https://github.com/Aryaa-Prangya/UI-Designs/assets/138790828/f043f0cc-8db4-4989-adf0-79c999d1e765)
 
 
 
